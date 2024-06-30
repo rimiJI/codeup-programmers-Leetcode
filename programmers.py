@@ -32,10 +32,10 @@
 #         high=max(1,square_target)
 
 
-#n인분 , 음료수 k개 총얼마지불?? 양꼬치 1인분 12000 , 음료수 2000
+#n인분 , 음료수 k개 총얼마지불?? 양꼬치 1인분 12000 , 음료수 2000 .10인분먹으면 음료수 하나 서비스
 
 def solution(n,k):
-    return n*12000+k*2000
+    return n*12000+k*2000-int(n/10)*2000
 
 n,k=map(int,input().split())
 print(solution(n,k))

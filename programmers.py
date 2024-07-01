@@ -34,8 +34,22 @@
 
 #n인분 , 음료수 k개 총얼마지불?? 양꼬치 1인분 12000 , 음료수 2000 .10인분먹으면 음료수 하나 서비스
 
-def solution(n,k):
-    return n*12000+k*2000-int(n/10)*2000
+# def solution(n,k):
+#     return n*12000+k*2000-int(n/10)*2000
 
-n,k=map(int,input().split())
-print(solution(n,k))
+# n,k=map(int,input().split())
+# print(solution(n,k))
+
+
+# #문자열안에 문자열 
+# def solution(str1, str2):
+#     if str2 in str1:
+#         return 1
+#     else:
+#         return 2
+    
+    
+# str1,str2=input().split()
+# print(solution(str1, str2))
+
+

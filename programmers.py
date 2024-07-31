@@ -1,11 +1,8 @@
-#자동입력 int 
+# 주어진 리스트
+original_list = ["h", "i", "1", "2", "3", "9", "2"]
 
-#int -> string -> [ for in ] -> sum
+# 숫자만 골라내는 리스트 컴프리헨션
+filtered_list = [int(item) for item in original_list if item.isdigit()]
 
-
-n=int(input())
-
-def solution(n):
-    return sum(map(int,[str(n)]))
-
-print(solution(n))
+# 결과 출력
+print(filtered_list)

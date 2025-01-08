@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/rimiJI/codeup-programmers-Leetcode/tree/master/1153-product-sales-analysis-i) |
